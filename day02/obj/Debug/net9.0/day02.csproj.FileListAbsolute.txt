@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.AssemblyInfo.cs
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\bin\Debug\net9.0\day02.exe
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\bin\Debug\net9.0\day02.deps.json
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\bin\Debug\net9.0\day02.runtimeconfig.json
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\bin\Debug\net9.0\day02.dll
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\bin\Debug\net9.0\day02.pdb
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.dll
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\refint\day02.dll
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.pdb
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\day02.genruntimeconfig.cache
+C:\Users\pc\Desktop\100daysofcode\c#\Days\day02\obj\Debug\net9.0\ref\day02.dll
