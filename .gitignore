@@ -1,0 +1,11 @@
+# Visual Studio ve C# için temel .gitignore
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
+packages/
