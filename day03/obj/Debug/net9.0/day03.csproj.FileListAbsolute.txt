@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\bin\Debug\net9.0\day03.exe
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\bin\Debug\net9.0\day03.deps.json
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\bin\Debug\net9.0\day03.runtimeconfig.json
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\bin\Debug\net9.0\day03.dll
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\bin\Debug\net9.0\day03.pdb
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.AssemblyInfo.cs
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.sourcelink.json
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.dll
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\refint\day03.dll
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.pdb
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\day03.genruntimeconfig.cache
+C:\Users\pc\Desktop\100daysofcode\100DaysOfCodeInCSharp\day03\obj\Debug\net9.0\ref\day03.dll
