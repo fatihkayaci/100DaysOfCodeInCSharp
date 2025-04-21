@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|solutionrelative:day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day03\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|solutionrelative:day03\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\gamedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\gamedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|solutionrelative:day03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day03\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F65B4D30-A7E1-4631-9CCA-D480B93B783E}|day03\\day03.csproj|solutionrelative:day03\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Program.cs",
-              "RelativeDocumentMoniker": "day03\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Program.cs",
-              "RelativeToolTip": "day03\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\MenuItem.cs",
+              "RelativeDocumentMoniker": "day04\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\MenuItem.cs",
+              "RelativeToolTip": "day04\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:13:39.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Art.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Art.cs",
-              "RelativeDocumentMoniker": "day03\\Art.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Art.cs",
-              "RelativeToolTip": "day03\\Art.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:02:42.502Z",
+              "WhenOpened": "2025-04-21T15:01:43.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameData.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\GameData.cs",
-              "RelativeDocumentMoniker": "day03\\GameData.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\GameData.cs",
-              "RelativeToolTip": "day03\\GameData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Title": "GameDb.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\GameDb.cs",
+              "RelativeDocumentMoniker": "day04\\GameDb.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\GameDb.cs",
+              "RelativeToolTip": "day04\\GameDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:39:59.54Z",
+              "WhenOpened": "2025-04-21T13:42:54.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Person.cs",
-              "RelativeDocumentMoniker": "day03\\Person.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day03\\Person.cs",
-              "RelativeToolTip": "day03\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\Program.cs",
+              "RelativeDocumentMoniker": "day04\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\Program.cs",
+              "RelativeToolTip": "day04\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwDMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:49:59.662Z",
+              "WhenOpened": "2025-04-21T13:35:36.697Z",
               "EditorCaption": ""
             }
           ]
