@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|solutionrelative:day05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\gamedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\gamedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day05\\quizbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|solutionrelative:day05\\quizbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day04\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BA401D-93AF-4A29-936C-A106DD6979BA}|day04\\day04.csproj|solutionrelative:day04\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day05\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|solutionrelative:day05\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|c:\\users\\pc\\desktop\\100daysofcode\\100daysofcodeincsharp\\day05\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9AA89C-8B5F-456B-AD74-BEE42B27D336}|day05\\day05.csproj|solutionrelative:day05\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\MenuItem.cs",
-              "RelativeDocumentMoniker": "day04\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\MenuItem.cs",
-              "RelativeToolTip": "day04\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:01:43.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameDb.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\GameDb.cs",
-              "RelativeDocumentMoniker": "day04\\GameDb.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\GameDb.cs",
-              "RelativeToolTip": "day04\\GameDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Title": "QuizBrain.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\QuizBrain.cs",
+              "RelativeDocumentMoniker": "day05\\QuizBrain.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\QuizBrain.cs",
+              "RelativeToolTip": "day05\\QuizBrain.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T13:42:54.889Z",
+              "WhenOpened": "2025-04-28T18:32:26.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\Program.cs",
-              "RelativeDocumentMoniker": "day04\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day04\\Program.cs",
-              "RelativeToolTip": "day04\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAnwDEAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Program.cs",
+              "RelativeDocumentMoniker": "day05\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Program.cs",
+              "RelativeToolTip": "day05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T13:35:36.697Z",
+              "WhenOpened": "2025-04-28T18:27:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Question.cs",
+              "RelativeDocumentMoniker": "day05\\Question.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Question.cs",
+              "RelativeToolTip": "day05\\Question.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:20:09.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Data.cs",
+              "RelativeDocumentMoniker": "day05\\Data.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\100daysofcode\\100DaysOfCodeInCSharp\\day05\\Data.cs",
+              "RelativeToolTip": "day05\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:19:51.033Z",
               "EditorCaption": ""
             }
           ]
